@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  image_width: 250
+  image_width: 350
   more_info: >
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
