@@ -1,0 +1,1 @@
+{"version":3,"sourceRoot":"","sources":["custom.scss"],"names":[],"mappings":"AAAA,aACE,uBACA","sourcesContent":[".profile img {\n width: 300px !important;\n height: auto !important;\n}\n"],"file":"custom.css"}
