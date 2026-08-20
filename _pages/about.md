@@ -14,4 +14,4 @@ social: true # includes social icons at the bottom of the page
 
 ---
 
-I am a Ph.D. Candidate at New York University (NYU). In my research, I investigate how states can legitimately coerce citizens when there is disagreement about the status of democracy itself. I argue this requires citizens to have robust exit options (e.g. subsidized emigration, or the right of secession). Relatedly, I am interested in how states can be _stable_ given the existence of antidemocratic (or "unreasonable") citizens.
+I am a Ph.D. Candidate in Politics at New York University (NYU), focusing on political theory. I am interested in how political systems can be both legitimate and stable given the existence of deep disagreement, including, crucially, disagreement about the status of democracy itself. I argue this requires citizens to have robust exit rights (e.g. subsidized emigration, or the right of secession).
