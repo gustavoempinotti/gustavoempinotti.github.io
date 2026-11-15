@@ -21,7 +21,7 @@ I argue that state legitimacy requires polycentric models. To do this, I identif
 
 ### Further work
 
-Whereas the above papers focus on legitimacy, the remaining chapters of my dissertation explore _stability_. I am particularly interested in how minorities can have leverage to bargain with majorities for their rights. I study how a right to territorial self-government (e.g., secession) may lead to that goal. I argue that regularly scheduled referenda for secession can be a self-enforcing tool for defending minority interests.
+Whereas the above papers focus on legitimacy, the remaining chapters of my dissertation explore _stability_. I am particularly interested in how minorities can have leverage to bargain with majorities for their rights. I study how a right to territorial self-government (e.g., secession) may lead to that goal. I argue that regularly scheduled referenda on territorial self-government can be a self-enforcing tool for defending minority interests.
 
 {% if site.data.research.github_users %}
 
