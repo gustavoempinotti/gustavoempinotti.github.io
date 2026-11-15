@@ -11,17 +11,17 @@ nav_order: 4
 
 I am happy to share working papers upon request.
 
-### State Authority and Its Limits (under review)
+### State Legitimacy and Migration
 
-I show how the existence of deep disagreement among citizens (e.g., about democracy itself) creates issues for influential contemporary accounts of state legitimacy of Kantian and Hobbesian origin. I argue that they cannot consistently impose _limits_ (e.g. justice-based requirements) on state activity. I contend, instead, that the right to coerce arises from the autonomy of citizens to self-organize as they wish (not on the rejection of anarchy, contra Kant and Hobbes).
+I show that recent accounts of democratic legitimacy based on collective autonomy cannot explain how state coercion is compatible with the autonomy of certain kinds of dissenters. I argue that preserving autonomy requires robust exit rights and make two key theoretical contributions: first, I offer a response to the classic Humean objection, according to which exit cannot justify a right to coerce given its high cost. I show that while the objection might hold against Lockean, consent-based accounts of legitimacy, the right of exit suffices for autonomy in a Kantian-Rousseauian approach to legitimacy. Second, I establish that state legitimacy requires active institutional support for exit, such as emigration subsidies and participation in multilateral immigration treaties. I argue that, much like respecting the autonomy of majorities requires elections, respect for the autonomy of dissenters requires active support for exit.
 
-### State Legitimacy and Exit
+### State Authority and Its Limits
 
-I show that a typical approach to state legitimacy - premised on maintaining the autonomy of citizens - fails to explain why citizens that _dissent_ from majorities retain autonomy. I argue that the right to coerce dissenters only arises when they have robust exit options (e.g., subsidized emigration). Additionally, I contend that states might have duties to enter multilateral free-movement agreements in order to guarantee the autonomy of their own citizens. This connects my research to existing work on _polycentricity._
+I argue that state legitimacy requires polycentric models. To do this, I identify a tension in influential accounts of state legitimacy. These theories hold that democratic rule is legitimate as long as it remains within a certain boundary of “basic justice.” However, in order to establish state legitimacy in the first place, these theories rely on the indeterminacy of justice in the state of nature. I show that these two moves are in tension: the indeterminacy of “basic justice” is a problem for these accounts. I argue, then, that legitimate political order must be “polycentric:” it must accommodate radically diverse communities, including those that defy standard definitions of (basic) justice. Alongside the above paper, this establishes that individuals must have meaningful choice among diverse polities within a polycentric system in order for state coercion to be justified.
 
 ### Further work
 
-In the remaining chapters of my dissertation, I explore how political systems can be _stable_ despite the existence of antidemocratic, or “unreasonable,” citizens. I am interested in how polycentric systems like the above can achieve that goal.
+Whereas the above papers focus on legitimacy, the remaining chapters of my dissertation explore _stability_. I am particularly interested in how minorities can have leverage to bargain with majorities for their rights. I study how a right to territorial self-government (e.g., secession) may lead to that goal. I argue that regularly scheduled referenda for secession can be a self-enforcing tool for defending minority interests.
 
 {% if site.data.research.github_users %}
 
